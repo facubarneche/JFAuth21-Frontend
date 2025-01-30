@@ -1,1 +1,1 @@
-export const sumTest = (a: number, b: number): number => a + b;
+export const sumTest = (a: number, b: number): number => a + b + a;
